@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<TRAMITES>
+    <TRAMITE>
+        <ID>1</ID>
+        <CI>22222</CI>
+    </TRAMITE>
+    <TRAMITE>
+        <ID>2</ID>
+        <CI>33333</CI>
+    </TRAMITE>
+    <TRAMITE>
+        <ID>4</ID>
+        <CI>11111</CI>
+    </TRAMITE>
+
+    <TRAMITE>
+        <ID>5</ID>
+        <CI>44444</CI>
+    </TRAMITE>
+<TRAMITE><ID>6</ID><CI>55555</CI></TRAMITE></TRAMITES>

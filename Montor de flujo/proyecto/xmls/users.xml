@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<USUARIOS>
+  <USUARIO>
+    <ID>11111</ID>
+    <NOMBRE>Reinaldo</NOMBRE>
+    <APELLIDO>Domiguez</APELLIDO>
+    <PLANTEL>Docente</PLANTEL>
+    <PASS>123456</PASS>
+  </USUARIO>
+  <USUARIO>
+    <ID>22222</ID>
+    <NOMBRE>Rocio</NOMBRE>
+    <APELLIDO>Caliman</APELLIDO>
+    <PLANTEL>Docente</PLANTEL>
+    <PASS>123456</PASS>
+  </USUARIO>
+    <USUARIO>
+      <ID>33333</ID>
+      <NOMBRE>Alexander</NOMBRE>
+      <APELLIDO>Caraman</APELLIDO>
+      <PLANTEL>Estudiante</PLANTEL>
+      <PASS>123456</PASS>
+    </USUARIO>
+    
+  <USUARIO>
+    <ID>44444</ID>
+    <NOMBRE>Roberto</NOMBRE>
+    <APELLIDO>Chambi</APELLIDO>
+    <PLANTEL>Docente</PLANTEL>
+    <PASS>123456</PASS>
+  </USUARIO>
+  <USUARIO>
+    <ID>55555</ID>
+    <NOMBRE>Rosaycela</NOMBRE>
+    <APELLIDO>Cu&#xF1;ape</APELLIDO>
+    <PLANTEL>Docente</PLANTEL>
+    <PASS>123456</PASS>
+  </USUARIO>
+  <USUARIO>
+    <ID>666666</ID>
+    <NOMBRE>Pablo</NOMBRE>
+    <APELLIDO>Coronel</APELLIDO>
+    <PLANTEL>Administrativo</PLANTEL>
+    <PASS>123456</PASS>
+  </USUARIO>
+
+</USUARIOS>

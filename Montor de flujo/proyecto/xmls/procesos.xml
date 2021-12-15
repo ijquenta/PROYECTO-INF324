@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<PROCESOS>
+    <PROCESO>
+        <ID>P1</ID>
+        <DESCRIPCION>SOLICITUD PARA PAGO</DESCRIPCION>
+        <SIGUIENTE>P2</SIGUIENTE>
+        <FLUJO>Caja</FLUJO>
+        <TIPO>D</TIPO>
+        <FORMULARIO>formularioinicio</FORMULARIO>
+    </PROCESO>
+    <PROCESO>
+        <ID>P2</ID>
+        <DESCRIPCION>VERIFICACION</DESCRIPCION>
+        <SIGUIENTE>0</SIGUIENTE>
+        <FLUJO>Caja</FLUJO>
+        <TIPO>C</TIPO>
+        <FORMULARIO></FORMULARIO>
+    </PROCESO>
+    <PROCESO>
+        <ID>P3</ID>
+        <DESCRIPCION>NOTIFICACION</DESCRIPCION>
+        <SIGUIENTE>0</SIGUIENTE>
+        <FLUJO>Caja</FLUJO>
+        <TIPO>F</TIPO>
+        <FORMULARIO>notificacion</FORMULARIO>
+    </PROCESO>
+    <PROCESO>
+        <ID>P4</ID>
+        <DESCRIPCION>ASIGNACION CODIGO Y MONTO</DESCRIPCION>
+        <SIGUIENTE>0</SIGUIENTE>
+        <FLUJO>Caja</FLUJO>
+        <TIPO>F</TIPO>
+        <FORMULARIO>------</FORMULARIO>
+    </PROCESO>
+    <PROCESO>
+        <ID>P5</ID>
+        <DESCRIPCION>CANCELACION</DESCRIPCION>
+        <SIGUIENTE>0</SIGUIENTE>
+        <FLUJO>Caja</FLUJO>
+        <TIPO>F</TIPO>
+        <FORMULARIO>-------</FORMULARIO>
+    </PROCESO>
+</PROCESOS>

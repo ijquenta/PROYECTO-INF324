@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SEGUIMIENTOS>
+    <SEGUIMIENTO>
+        <ID>1</ID>
+        <CI>22222</CI>
+        <PROCESO>P1</PROCESO>
+        <ROL>Usuario</ROL>
+        <FECHAINICIO/>
+        <FECHAFIN/>
+    </SEGUIMIENTO>
+    <SEGUIMIENTO>
+        <ID>1</ID>
+        <CI>22222</CI>
+        <PROCESO>P2</PROCESO>
+        <ROL>Cajero</ROL>
+        <FECHAINICIO>2021-12-15 08:00:14</FECHAINICIO>
+        <FECHAFIN/>
+    </SEGUIMIENTO>
+    <SEGUIMIENTO>
+        <ID>1</ID>
+        <CI>22222</CI>
+        <PROCESO>P3</PROCESO>
+        <ROL>Cajero</ROL>
+        <FECHAINICIO>2021-12-15 10:06:14</FECHAINICIO>
+        <FECHAFIN/>
+    </SEGUIMIENTO>
+    <SEGUIMIENTO>
+        <ID>1</ID>
+        <CI>22222</CI>
+        <PROCESO>P4</PROCESO>
+        <ROL>Cajero</ROL>
+        <FECHAINICIO>2021-12-15 00:06:14</FECHAINICIO>
+        <FECHAFIN/>
+    </SEGUIMIENTO>
+
+
+    <SEGUIMIENTO>
+        <ID>6</ID>
+        <CI>55555</CI>
+        <PROCESO>P1</PROCESO>
+        <ROL>Docente</ROL>
+        <FECHAINICIO>2021-12-15 00:06:14</FECHAINICIO>
+    </SEGUIMIENTO>
+
+    <SEGUIMIENTO>
+        <ID>6</ID>
+        <CI>55555</CI>
+        <PROCESO>P1</PROCESO>
+        <ROL>Docente</ROL>
+        <FECHAINICIO>2021-12-15 00:33:49</FECHAINICIO>
+    </SEGUIMIENTO>
+</SEGUIMIENTOS>
